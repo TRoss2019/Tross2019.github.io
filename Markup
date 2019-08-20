@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+     
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+ <style>
+    body{background-color:green;
+    position: relative;
+    border: 5px solid black;
+    }
+  
+    h1{position: relative;
+    left: 200px;}
+    
+    h2{position: relative;
+    left: 240px;}
+    
+    h3{position: relative;
+    left: 240px; }
+    
+  </style>
+  
+</head>
+<body>
+  <header>
+   
+  <h1>TreQuan Ross</h1>
+  <h2>About Me</h2>
+  </header>
+  <main>
+  
+      <p>  I am a college student going into my second year at CCRI attending in general studies.</p> I have graduated from PCTA back in June of 2017 receiving my high school diploma.
+
+    <section>
+      <h3>Experience</h3>
+      July-August 2019
+<p>Providence Youth summer program/CareerDevs</p>
+  <ul>
+    <li> Html Intern</li>
+      </ul>
+   
+
+July-August 2018
+    <p>Providence Housing Authority - Intern</p>
+   <ul>   
+     <li>Utilized Microsoft Excel to document applicants into a logbook</li>
+     <li>Handled information and files</li>
+      </ul>
+
+    </section>
+  
+  <section>
+    
+    <h3>Skills</h3>
+    <ul>
+      <li>I am a critical thinker</li>
+      <li>I respect my co workers and those around me</li>
+<li>I am willing to go out of my comfort zone</li>
+      <li>I collaborate well with others</li>
+<li>I display basic understanding of computer skills and skills revolving around Microsoft Excel</li>
+    </ul>
+  </section>
+  
+  
+  </main>
+</body>
+</html>
